@@ -22,8 +22,6 @@
 	//sousuo:'./assets/images/sousuo.png',
 	success:'./assets/images/success.png',
 	qiuzhu:'./assets/images/qiuzhu.png',
-
-
 	title:'./assets/images/title2.jpg',
 	qd:'./assets/images/qd.jpg',
 	qiandaoBg:'./assets/images/qiandao-bg.png',
@@ -54,27 +52,26 @@ var musics = {
 	}
 };
 
-
 window.menus = [{
 	name: "培训须知",
 	img: imgs.xuzhi,
 	defaultImg: imgs.xuzhi,
 	img1: imgs.xuzhi1,
 	width: '65px',
-	href: "http://www.wenming.cn/specials/wmcj/2018term/xz/"
+	href: "http://www.wenming.cn/specials/wmcj/2018term2/xz/"
 }, {
 	name: "课程安排",
 	img: imgs.kecheng,
 	defaultImg: imgs.kecheng,
 	width: '54px',
-	href: "http://www.wenming.cn/specials/wmcj/2018term/kcap/"
+	href: "http://www.wenming.cn/specials/wmcj/2018term2/kcap/"
 }, {
 	name: "新闻中心",
 	img: imgs.gonggao,
 	defaultImg: imgs.gonggao,
 	img1: imgs.gonggao1,
 	width: '65px',
-	href: 'http://www.wenming.cn/specials/wmcj/2018term/news/'
+	href: 'http://www.wenming.cn/specials/wmcj/2018term2/news/'
 }, {
 	name: "我的房间",
 	img: imgs.zhusu,
@@ -86,7 +83,8 @@ window.menus = [{
 	img: imgs.zuowei,
 	defaultImg: imgs.zuowei,
 	img1: imgs.zuowei1,
-	width: '60px'
+	width: '70px',
+	href: 'http://www.wenming.cn/specials/wmcj/2018term2/zj/'
 }, {
 	name: "我的同学",
 	img: imgs.tongxunlu,
@@ -99,14 +97,14 @@ window.menus = [{
 	defaultImg: imgs.jiaoliu,
 	img1: imgs.jiaoliu1,
 	width: '50px',
-	href: 'http://www.wenming.cn/specials/wmcj/2018term/jyjl/'
+	href: 'http://www.wenming.cn/specials/wmcj/2018term2/jyjl/'
 }, {
 	name: "文件汇编",
 	img: imgs.ziliao,
 	defaultImg: imgs.ziliao,
 	img1: imgs.ziliao1,
 	width: '60px',
-	href: 'http://www.wenming.cn/specials/wmcj/2018term/wjhb/'
+	href: 'http://www.wenming.cn/specials/wmcj/2018term2/wjhb/'
 }, {
 	name: "我要求助",
 	img: imgs.qiuzhu,
